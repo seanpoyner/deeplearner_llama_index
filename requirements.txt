@@ -1,0 +1,4 @@
+# Required libraries
+# Install with pip install -r requirements.txt
+llama-index-llms-huggingface-api
+dotenv
